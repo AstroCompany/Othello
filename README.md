@@ -10,7 +10,7 @@ Nous vous partageons le code de notre jeu afin que vous puissiez vous en inspire
 - Pouvoir sauvegarder
 - Pouvoir jouer contre une IA et faire jouer une IA contre une autre IA ✔
 - Optimisation 
-- Finalisation
+- Finalisation:heavy_check_mark:
 
 # Règles du jeu:
 Othello est un jeu de réflexion crée en 1971 par Goro Hasegaw au Japon.  
