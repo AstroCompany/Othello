@@ -1,7 +1,7 @@
 # Othello
-Projet réaliser par deux personnes dans le cadre d'un projet à rendre en NSI en classe de terminale.
-Ce jeu a été codé en Python.
-Ce projet nous a pris environ 2 mois et demi pour être réalisé et il reste encore des choses à faire pour le terminer à 100 % comme nous le voulons.
+Projet réaliser par deux personnes dans le cadre d'un projet à rendre en NSI en classe de terminale.  
+Ce jeu a été codé en Python.  
+Ce projet nous a pris environ 2 mois et demi pour être réalisé et il reste encore des choses à faire pour le terminer à 100 % comme nous le voulons.  
 Nous vous partageons le code de notre jeu afin que vous puissiez vous en inspirer ou le compléter.  
 
 # Liste des choses à faire:
