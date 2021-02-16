@@ -4,13 +4,13 @@ Ce projet nous a pris environ 2 mois et demi pour être réaliser et il reste en
 Nous vous partageons le code de notre jeu afin que vous puissiez vous en inspirer ou le compléter.  
 
 # Liste des choses à faire:
-- Comprendre règles du jeu ✔
-- Représentation graphique du plateau de jeu ✔
-- Pouvoir jouer une partie contre un autre joueur humain ✔
+- Comprendre règles du jeu:heavy_check_mark:
+- Représentation graphique du plateau de jeu:heavy_check_mark:
+- Pouvoir jouer une partie contre un autre joueur humain:heavy_check_mark:
 - Pouvoir sauvegarder
-- Pouvoir jouer contre une IA et faire jouer une IA contre une autre IA ✔
+- Pouvoir jouer contre une IA et faire jouer une IA contre une autre IA:heavy_check_mark:
 - Optimisation 
-- Finalisation:heavy_check_mark:
+- Finalisation
 
 # Règles du jeu:
 Othello est un jeu de réflexion crée en 1971 par Goro Hasegaw au Japon.  
