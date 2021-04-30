@@ -44,4 +44,3 @@ Nous ne le connaissions pas, mais grâce à des vidéos et des forums nous avons
 # L'IA
 Dans notre projet, nous devions créer une simple IA qui jouais le coup qui lui rapporter le plus de pions possibles.
 Grâce a des recherches sur la création d'IA pour certains jeux de plateau, nous avons vu que le sujet étai très intéressant et que de nombreuses personnes se penchent sur le sujet et développent des IA très performantes.  
-# Le code sera mis prochainement, nous travaillons dessus actuellement
